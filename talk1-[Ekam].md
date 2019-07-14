@@ -12,3 +12,4 @@ Duration:
 ### Agenda:
 
 1. Intro to Community (turington, antha-prerna, ducs, NCR-communities) | _15mins - Parth_
+2. Getting Started with Competitive programming | _30mins - Shivam_
