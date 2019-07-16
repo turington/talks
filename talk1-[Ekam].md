@@ -3,11 +3,11 @@ Ekam is sankrit for One.
 
 Venue:
 
-Time:
+Time: 11 am
 
-Date:
+Date: 3 August
 
-Duration:
+Duration: 
 <br><br><br>
 ### Agenda:
 
