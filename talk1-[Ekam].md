@@ -19,6 +19,7 @@ Duration: 2hrs 30mins
 5. Intro to Community (turington, antha-prerna, ducs, NCR-communities) | _15mins - Parth_
 
 <br>
-<br>
- _Proposals for Ekam are closed! You can open an issue to propose a talk or request a talk and get a slot in next talk event_
+ 
+
+_Proposals for Ekam are closed! You can open an issue to propose a talk or request a talk and get a slot in next talk event_
 
