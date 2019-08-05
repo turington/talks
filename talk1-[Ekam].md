@@ -1,13 +1,13 @@
 # Ekam
 Ekam is sankrit for One.
 
-Venue:
+Venue: Ghalib Auditorium
 
-Time: 
+Time: 2PM
 
-Date: 
+Date: 7th August 2019 | Wednesday 
 
-Duration: 2hrs 30mins
+Duration: 3hrs
 <br><br><br>
 ### Agenda:
 
