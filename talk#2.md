@@ -15,4 +15,4 @@ You can submit proposal for a talk by opening an issue in this repo. Your issue 
 <br>
 See past closed issue for example format of proposals
 <br><br> 
-Also add tag "talk proposal  to you issue.
+Also add tag "talk proposal"  to you issue.
