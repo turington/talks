@@ -15,6 +15,9 @@ You can submit proposal for a talk by opening an issue in this repo. Your issue 
 
 
 ### Upcoming talks
-* [Ekam](/talk1-[Ekam].md)
+* [talk2](/talk#2.md)
 
 ### Past Talks
+* [Ekam](/talk1-[Ekam].md)
+
+
