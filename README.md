@@ -1,7 +1,7 @@
-# Budding talks
+# Turing/Talks
 @ Ramanujan College
 
-Budding talks are bi-montly talks in Ramanujan college on computer technologies.
+Turing/talks are bi-montly talks in Ramanujan college on computer technologies.
 
 ### History
 This initiative was started in 2019.
