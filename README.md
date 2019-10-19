@@ -3,6 +3,8 @@
 
 Turing/talks are bi-montly talks in Ramanujan college on computer technologies.
 
+[Our 2019-20 Milestone are here](https://github.com/turington/talks/milestone/1).
+
 ### History
 This initiative was started in 2019.
 
