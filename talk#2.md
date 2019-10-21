@@ -16,5 +16,5 @@ Duration: 2 HOURS
 <br>
  
 
-_Proposals for  are closed! You can open an issue to propose a talk or request a talk and get a slot in next talk event_
+_Proposals for SQUID are closed! You can open an issue to propose a talk or request a talk and get a slot in next talk event_
 
