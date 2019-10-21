@@ -4,9 +4,9 @@ Venue: LAB 303
 
 Time: 2:00 PM
 
-Date: 23 OCTOBER 2019 , Wednesday
+Date: 23rd October 2019 , Wednesday
 
-Duration: 2 HOURS
+Duration: 2 Hrs
 ### Agenda:
 
 1. Introduction to App Development and Firebase | _30mins - Toseef_
