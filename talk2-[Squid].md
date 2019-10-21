@@ -2,9 +2,9 @@
 
 Venue: LAB 303
 
-Time: 2:00 PM ONWARDS
+Time: 2:00 PM
 
-Date: 23 OCTOBER 2019 , WEDNESDAY
+Date: 23 OCTOBER 2019 , Wednesday
 
 Duration: 2 HOURS
 ### Agenda:
