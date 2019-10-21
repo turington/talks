@@ -1,4 +1,4 @@
-# talk2 -- SQUID
+# SQUID
 
 Venue: LAB 303
 
