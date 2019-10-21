@@ -1,18 +1,20 @@
-# talk2
+# talk2 -- SQUID
 
-Venue: 
+Venue: LAB 303
 
-Time: 
+Time: 2:00 PM ONWARDS
 
-Date: 
+Date: 23 OCTOBER 2019 , WEDNESDAY
 
-Duration: 3hrs
-<br><br><br>
-Proposals for this talk are open. <br>
+Duration: 2 HOURS
+### Agenda:
+
+1. Introduction to App Development and Firebase | _30mins - Toseef_
+2. Introduction to Open Source using GitHub | _30mins - Pavan_
+3. Introduction to Blockchain | _35mins - Vishnu_
+
 <br>
-You can submit proposal for a talk by opening an issue in this repo. Your issue must contain information about title, duration and discription for talk.
-<br>
-<br>
-See past closed issue for example format of proposals
-<br><br> 
-Also add tag "talk proposal"  to you issue.
+ 
+
+_Proposals for  are closed! You can open an issue to propose a talk or request a talk and get a slot in next talk event_
+
