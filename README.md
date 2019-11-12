@@ -19,7 +19,7 @@ You can submit proposal for a talk by opening an issue in this repo. Your issue 
 *
 
 ### Upcoming talks and events
-* [Hamster](/talk2-[Hamster].md)
+* [Hamster](/talk3-[Hamster].md)
 
 ### Past Workshops/Bootcamps
 * [Augmented Reality 101 workshop series](https://github.com/turington/talks/blob/master/workshop%201-%5BAugmented%20Reality%20101%20workshop%20series%5D.md)
